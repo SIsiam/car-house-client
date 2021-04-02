@@ -1,0 +1,35 @@
+.login-form{
+    background: url('../Images/login-9.jpg') center/cover;
+    height: 100vh;
+    font-weight: 700;
+    position: relative;
+    color: white;
+}
+
+.btn-social {
+    width: 50%;
+    height: 45px;
+    border-radius: 50px;
+    border: 1px solid #C5C5C5;
+    position: relative;
+    margin-top: 200px;
+    background-color: gainsboro;
+    color: black;
+    border: 2px solid rgb(255, 255, 255);
+    transition: border-color .8s ease, background-color .9s ease;
+    z-index: 10;
+}
+.btn-social:hover {
+    background-color: transparent;
+    color: white;
+}
+.social-logo {
+    height: 37px;
+    width: 37px;
+    object-fit: cover;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 5px;
+    color: white;
+}

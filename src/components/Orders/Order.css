@@ -1,0 +1,15 @@
+.order-container{
+    background: url('../Images/campbell-3ZUsNJhi_Ik-unsplash.jpg') center/cover;
+    position: relative;
+    background-size: cover;
+  }
+  .selected-order {
+    width: 550px;
+     height: 250
+  }
+
+  @media screen and (max-width: 500px) {
+    .selected-order {
+      width: 420px;
+    }
+  }
