@@ -1,11 +1,10 @@
 # Car House A Business app
 A full-stack project with firebase authentication
-<h2> Live : https://car-house-481ac.web.app/ </h2>
+[Live Website](https://car-house-481ac.web.app/)
 
 ## Buyers
-- Buyers can select car and login with date Price quentity Brand Name.
-- Buyers can get a track of all selected For Buy Car and can cancel any of the Time car anytime With MoneyBack Gurrenty.
-
+- Buyers can select car and login with date Price quantity Brand Name.
+- Buyers can get a track of all selected For Buy Car and can cancel any of the Time car anytime With Money Back Guarantee.
 
 ## Admin
 - Admin can see all Car and can delete them if required.
